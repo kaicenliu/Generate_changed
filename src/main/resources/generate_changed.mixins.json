@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "com.kaicen.gc.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "ExampleMixin",
+    "RuRegionPrimaryMixin",
+    "RuRegionSecondaryMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+	}
+}

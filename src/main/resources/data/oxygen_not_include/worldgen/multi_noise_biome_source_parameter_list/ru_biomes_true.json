@@ -1,0 +1,305 @@
+{
+  "preset": "minecraft:overworld",
+  "biomes": [
+    {
+      "biome": "regions_unexplored:alpha_grove",
+      "parameters": {
+        "temperature": 0.7,
+        "humidity": 0.8,
+        "continentalness": 0.5,
+        "erosion": 0.4,
+        "weirdness": 0.2,
+        "depth": 0.0,
+        "offset": 0.0
+      }
+    },
+    {
+      "biome": "regions_unexplored:arid_mountains",
+      "parameters": {
+        "temperature": 0.8,
+        "humidity": 0.2,
+        "continentalness": 0.7,
+        "erosion": 0.2,
+        "weirdness": 0.0,
+        "depth": 0.0,
+        "offset": 0.0
+      }
+    },
+    {
+      "biome": "regions_unexplored:pine_slopes",
+      "parameters": {
+        "temperature": 0.4,
+        "humidity": 0.6,
+        "continentalness": 0.7,
+        "erosion": 0.3,
+        "weirdness": 0.0,
+        "depth": 0.0,
+        "offset": 0.0
+      }
+    },
+    {
+      "biome": "regions_unexplored:mountains",
+      "parameters": {
+        "temperature": 0.5,
+        "humidity": 0.5,
+        "continentalness": 0.8,
+        "erosion": 0.2,
+        "weirdness": 0.0,
+        "depth": 0.0,
+        "offset": 0.0
+      }
+    },
+    {
+      "biome": "regions_unexplored:highland_fields",
+      "parameters": {
+        "temperature": 0.5,
+        "humidity": 0.6,
+        "continentalness": 0.6,
+        "erosion": 0.4,
+        "weirdness": 0.0,
+        "depth": 0.0,
+        "offset": 0.0
+      }
+    },
+    {
+      "biome": "regions_unexplored:deciduous_forest",
+      "parameters": {
+        "temperature": 0.6,
+        "humidity": 0.6,
+        "continentalness": 0.5,
+        "erosion": 0.4,
+        "weirdness": 0.0,
+        "depth": 0.0,
+        "offset": 0.0
+      }
+    },
+    {
+      "biome": "regions_unexplored:barley_fields",
+      "parameters": {
+        "temperature": 0.6,
+        "humidity": 0.5,
+        "continentalness": 0.4,
+        "erosion": 0.5,
+        "weirdness": 0.0,
+        "depth": 0.0,
+        "offset": 0.0
+      }
+    },
+    {
+      "biome": "regions_unexplored:orchard",
+      "parameters": {
+        "temperature": 0.7,
+        "humidity": 0.6,
+        "continentalness": 0.4,
+        "erosion": 0.5,
+        "weirdness": 0.0,
+        "depth": 0.0,
+        "offset": 0.0
+      }
+    },
+    {
+      "biome": "regions_unexplored:lupine_plains",
+      "parameters": {
+        "temperature": 0.6,
+        "humidity": 0.5,
+        "continentalness": 0.5,
+        "erosion": 0.5,
+        "weirdness": 0.1,
+        "depth": 0.0,
+        "offset": 0.0
+      }
+    },
+    {
+      "biome": "regions_unexplored:poppy_fields",
+      "parameters": {
+        "temperature": 0.6,
+        "humidity": 0.5,
+        "continentalness": 0.4,
+        "erosion": 0.5,
+        "weirdness": 0.0,
+        "depth": 0.0,
+        "offset": 0.0
+      }
+    },
+    {
+      "biome": "regions_unexplored:mauve_hills",
+      "parameters": {
+        "temperature": 0.6,
+        "humidity": 0.6,
+        "continentalness": 0.6,
+        "erosion": 0.4,
+        "weirdness": 0.2,
+        "depth": 0.0,
+        "offset": 0.0
+      }
+    },
+    {
+      "biome": "regions_unexplored:fungal_fen",
+      "parameters": {
+        "temperature": 0.5,
+        "humidity": 0.9,
+        "continentalness": 0.4,
+        "erosion": 0.5,
+        "weirdness": 0.3,
+        "depth": 0.0,
+        "offset": 0.0
+      }
+    },
+    {
+      "biome": "regions_unexplored:prairie",
+      "parameters": {
+        "temperature": 0.7,
+        "humidity": 0.4,
+        "continentalness": 0.5,
+        "erosion": 0.5,
+        "weirdness": 0.0,
+        "depth": 0.0,
+        "offset": 0.0
+      }
+    },
+    {
+      "biome": "regions_unexplored:rocky_meadow",
+      "parameters": {
+        "temperature": 0.5,
+        "humidity": 0.5,
+        "continentalness": 0.6,
+        "erosion": 0.3,
+        "weirdness": 0.0,
+        "depth": 0.0,
+        "offset": 0.0
+      }
+    },
+    {
+      "biome": "regions_unexplored:cherry_hills",
+      "parameters": {
+        "temperature": 0.6,
+        "humidity": 0.7,
+        "continentalness": 0.6,
+        "erosion": 0.4,
+        "weirdness": 0.1,
+        "depth": 0.0,
+        "offset": 0.0
+      }
+    },
+    {
+      "biome": "regions_unexplored:baobab_savanna",
+      "parameters": {
+        "temperature": 0.9,
+        "humidity": 0.3,
+        "continentalness": 0.5,
+        "erosion": 0.4,
+        "weirdness": 0.0,
+        "depth": 0.0,
+        "offset": 0.0
+      }
+    },
+    {
+      "biome": "regions_unexplored:silver_birch_forest",
+      "parameters": {
+        "temperature": 0.5,
+        "humidity": 0.6,
+        "continentalness": 0.5,
+        "erosion": 0.4,
+        "weirdness": 0.0,
+        "depth": 0.0,
+        "offset": 0.0
+      }
+    },
+    {
+      "biome": "regions_unexplored:redwoods",
+      "parameters": {
+        "temperature": 0.7,
+        "humidity": 0.7,
+        "continentalness": 0.6,
+        "erosion": 0.2,
+        "weirdness": 0.0,
+        "depth": 0.0,
+        "offset": 0.0
+      }
+    },
+    {
+      "biome": "regions_unexplored:shrubland",
+      "parameters": {
+        "temperature": 0.7,
+        "humidity": 0.4,
+        "continentalness": 0.5,
+        "erosion": 0.4,
+        "weirdness": 0.0,
+        "depth": 0.0,
+        "offset": 0.0
+      }
+    },
+    {
+      "biome": "regions_unexplored:flower_fields",
+      "parameters": {
+        "temperature": 0.6,
+        "humidity": 0.6,
+        "continentalness": 0.4,
+        "erosion": 0.5,
+        "weirdness": 0.1,
+        "depth": 0.0,
+        "offset": 0.0
+      }
+    },
+    {
+      "biome": "regions_unexplored:maple_forest",
+      "parameters": {
+        "temperature": 0.6,
+        "humidity": 0.7,
+        "continentalness": 0.5,
+        "erosion": 0.4,
+        "weirdness": 0.0,
+        "depth": 0.0,
+        "offset": 0.0
+      }
+    },
+    {
+      "biome": "regions_unexplored:wooded_steppe",
+      "parameters": {
+        "temperature": 0.7,
+        "humidity": 0.4,
+        "continentalness": 0.5,
+        "erosion": 0.4,
+        "weirdness": 0.0,
+        "depth": 0.0,
+        "offset": 0.0
+      }
+    },
+    {
+      "biome": "regions_unexplored:steppe",
+      "parameters": {
+        "temperature": 0.7,
+        "humidity": 0.3,
+        "continentalness": 0.5,
+        "erosion": 0.4,
+        "weirdness": 0.0,
+        "depth": 0.0,
+        "offset": 0.0
+      }
+    },
+    {
+      "biome": "regions_unexplored:bamboo_forest",
+      "parameters": {
+        "temperature": 0.8,
+        "humidity": 0.8,
+        "continentalness": 0.5,
+        "erosion": 0.4,
+        "weirdness": 0.0,
+        "depth": 0.0,
+        "offset": 0.0
+      }
+    },
+    {
+      "biome": "regions_unexplored:blackwood_forest",
+      "parameters": {
+        "temperature": 0.3,
+        "humidity": 0.6,
+        "continentalness": 0.6,
+        "erosion": 0.3,
+        "weirdness": 0.1,
+        "depth": 0.0,
+        "offset": 0.0
+      }
+    }
+  ]
+}
